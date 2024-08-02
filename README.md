@@ -2,7 +2,7 @@
 
 ## Descripción
 
-`technical_test` es una prueba tecnica para qwick.
+`technical_test` es una prueba tecnica.
 
 ## Requisitos Previos
 
